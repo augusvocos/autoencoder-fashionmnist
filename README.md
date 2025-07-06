@@ -1,2 +1,2 @@
 # autoencoder-fashionmnist
-Autoencoder Convolucional para Clasificaci´on en FashionMNIST
+Autoencoder Convolucional para Clasificación en FashionMNIST
