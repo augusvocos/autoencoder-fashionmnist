@@ -42,3 +42,5 @@ Los modelos fueron comparados en términos de error, precisión y estabilidad de
 - Entrenar el encoder y el clasificador **simultáneamente** mejora la precisión predictiva, aunque genera mayor sobreajuste.
 - El clasificador **entrenado por separado** (con o sin encoder preentrenado) presenta menor riesgo de sobreajuste, pero una capacidad predictiva más limitada.
 - Sorprendentemente, la representación latente generada por el encoder no mejora significativamente la clasificación si no se entrena en conjunto con el clasificador, lo que invita a reflexionar sobre la relación entre objetivos de reconstrucción y discriminación.
+
+TEST
