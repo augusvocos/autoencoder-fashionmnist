@@ -44,4 +44,4 @@ Los modelos fueron comparados en términos de error, precisión y estabilidad de
 - Sorprendentemente, la representación latente generada por el encoder no mejora significativamente la clasificación si no se entrena en conjunto con el clasificador, lo que invita a reflexionar sobre la relación entre objetivos de reconstrucción y discriminación.
 
 
-test1234
+TEST
